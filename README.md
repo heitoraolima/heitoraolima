@@ -1,4 +1,4 @@
-✌️ Brazilian, PhD candidate in Business Economics at <a href='https://www.insper.edu.br/en/graduate/doctoral-program/doctoral-in-business-economics-phd-in-business-economics/'>Insper</a>, interested in Industrial Organization. I'm currently **learning** IO/structural econometrics, so I use Github to learn and share my journey. I hold a BA in Economic Sciences, and also a Technologist degree in Business IT. Actually, I've worked a few years as system analyst.
+✌️ Brazilian, PhD candidate in Business Economics at <a href='https://www.insper.edu.br/en/graduate/doctoral-program/doctoral-in-business-economics-phd-in-business-economics/'>Insper</a>, interested in Industrial Organization. I'm currently **learning** IO/structural econometrics, so I use Github to improve and share my journey. I hold a BA in Economic Sciences, and also a Technologist degree in Business IT. Actually, I've worked a few years as system analyst.
 
 🖥️ In my daily work, I use Python via Jupyter Notebook. I also have some experience with programming, web scraping, Linux, and Oracle databases.
 
