@@ -8,6 +8,21 @@
 - Supporter of <a href='https://twitter.com/Corinthians'>Corinthians</a> ⚽, <a href='https://twitter.com/Lakers'>Lakers</a> 🏀, <a href='https://twitter.com/Chiefs'>Chiefs</a> 🏈
 - Big fan of cinema, specially Martin Scorsese's 🎬
 - Huge fan of books, when daily work allows me to read 📚
+<br>
+<div align="center">
+  <a href="https://github.com/heitor-lima" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitor-lima&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitor-lima&layout=compact&langs_count=7" />
+</div>
+<br>
+<h3>Contact</h3>
+    
+<a href="mailto:heitoraol@al.insper.edu.br">
+  <img src="https://img.shields.io/badge/heitoraol@al.insper.edu.br-0078D4?style=flat-square&amp;logo=microsoft-outlook&logoColor=white;">
+</a>
+<a href="https://www.linkedin.com/in/heitor-lima/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Heitor Lima-0077B5?style=flat-square&amp;logo=linkedin&logoColor=white">
+</a>
 
 <!-- 
 I'm currently working on the first project for my thesis, regarding a national drug access program in Brazil, the <a href='https://www.gov.br/saude/pt-br/composicao/sectics/daf/farmacia-popular'>_Farmácia Popular do Brasil_</a> program. Overall, the idea is to understand how subdisidies for certain medicines affects prices of rival drugs, and complementary products in the retail pharmacy industry. So, if you have any ideas or insights on this kind of subject, get in contact: <a href='mailto:heitoraol@al.insper.edu.br'>heitoraol@al.insper.edu.br</a>.
