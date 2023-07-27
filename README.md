@@ -12,9 +12,9 @@
 
 ## 📊 GitHub profile stats
 <div align="center">
-  <a href="https://github.com/heitor-lima" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitor-lima&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitor-lima&layout=compact&langs_count=7" />
+  <a href="https://github.com/heitoraolima" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitoraolima&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitoraolima&layout=compact&langs_count=7" />
 </div>
 
 ## 📫 Connect with me
