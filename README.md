@@ -1,8 +1,8 @@
-✌️ Brazilian, PhD candidate in Business Economics at <a href='https://www.insper.edu.br/en/graduate/doctoral-program/doctoral-in-business-economics-phd-in-business-economics/'>Insper</a>, interested in Industrial Organization. I'm currently **learning** IO/structural econometrics, so I use Github to improve and share my journey. I hold a BA in Economic Sciences, and also a Technologist degree in Business IT. Actually, I've worked a few years as system analyst.
+✌️ Brazilian, PhD candidate in Business Economics at <a href='https://www.insper.edu.br/en/graduate/doctoral-program/doctoral-in-business-economics-phd-in-business-economics/'>Insper</a>, interested in Industrial Organization and Public Economics. I'm currently **learning** IO/structural econometrics, so I use Github to improve my skills and share my journey. I hold a BA in Economic Sciences, and also a Technologist degree in Business IT. Actually, I've worked a few years as system analyst.
 
 🖥️ In my daily work (basically, data science), I enjoy using Python via Jupyter Notebook, but I also use a lot of Stata. I also have some experience with programming, web scraping, Linux, and Oracle databases.
 
-🔭 I'm currently working on the first project for my doctoral thesis, hoping to upload the first draft soon.
+🔭 I'm currently working on the first 2 of 3 projects I need for my doctoral thesis. The preliminary draft of the first project is available upon request.
 
 😄 Fun facts:
 - Supporter of <a href='https://twitter.com/Corinthians'>Corinthians</a> ⚽, <a href='https://twitter.com/Lakers'>Lakers</a> 🏀, <a href='https://twitter.com/Chiefs'>Chiefs</a> 🏈
