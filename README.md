@@ -2,7 +2,7 @@
 
 🖥️ In my daily work (basically, data science), I enjoy using Python via Jupyter Notebook, but I also use a lot of Stata. I also have some experience with programming, web scraping, Linux, and Oracle databases.
 
-🔭 I'm currently working on the first 2 of 3 projects I need for my doctoral thesis. The preliminary draft of the first project is available upon request.
+🔭 I'm currently working on the first 2 of 3 projects for my doctoral thesis. The preliminary draft of the first project is available upon request.
 
 😄 Fun facts:
 - Supporter of <a href='https://twitter.com/Corinthians'>Corinthians</a> ⚽, <a href='https://twitter.com/Lakers'>Lakers</a> 🏀, <a href='https://twitter.com/Chiefs'>Chiefs</a> 🏈
